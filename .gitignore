@@ -1,5 +1,7 @@
 node_modules
 
+stensdev-site.tar
+
 # IDE
 .idea
 .vscode
