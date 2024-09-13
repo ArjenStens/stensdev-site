@@ -32,3 +32,4 @@ docker build --platform linux/amd64 . -t stensdev-site
 # To store docker image as tarball 
 docker save stensdev-site > stensdev-site.tar
 ```
+
