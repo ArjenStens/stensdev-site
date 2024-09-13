@@ -27,6 +27,7 @@ You can preview the production build with `npm run preview`.
 
 ### Docker build
 
+
 ```bash
 # For building on Mac with M1/2/3 chip include --platform
 docker build --platform linux/amd64 . -t stensdev-site
