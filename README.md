@@ -36,35 +36,3 @@ docker build --platform linux/amd64 . -t stensdev-site
 docker save stensdev-site > stensdev-site.tar
 ```
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
